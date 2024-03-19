@@ -1,0 +1,12 @@
+AI-Quiz
+Bemutatás
+A projektmunkám célja egy saját készítésű kvízjáték kibővítése a mesterséges intelligencia által nyújtott lehetőségekkel.
+Ezalatt gondolok a kérdések, valamint a válaszok valós idejű generálására az AI által. Ennek köszönhetően nem lesz szüksége a játéknak egy nagy adatbázisra, ahol a kérdéseket és a válaszokat tárolni kellene. 
+A másik terület amit ki szeretnék aknázni a mesterséges intelligencia által, az pedig a játék több nyelven való elérhetősége. Mivel a hagyományos adatbázisos megoldásnál a kérdések átfordítása az adott nyelvekre nagyon költséges lenne, viszont az AI által mindezt ki lehet kerülni, hiszen képes az adott nyelven generálni a kérdéseket, és elegendő csak a kezelőfelületet átfordítani/ átfordítattni. 
+Mindezek mellett szeretném, ha a kérdések generálásakor sokkal nemzetiségre szabottabbak lennének azok, tehát, hogy egy magyar játékostól ne a kínai történelemről érdeklődjön a „játékmesterem”.  
+
+Tervezett fejlesztési környezet
+•	C++ programnyelv
+•	Visual Studio 	(https://visualstudio.microsoft.com)
+•	Unity 			(https://unity.com)
+•	Google Gemini AI 	(https://gemini.google.com)
